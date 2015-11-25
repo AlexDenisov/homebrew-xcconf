@@ -1,7 +1,7 @@
 class Xcconf < Formula
   homepage "https://github.com/AlexDenisov/xcconf"
-  url "https://github.com/AlexDenisov/xcconf/archive/0.3.0.tar.gz"
-  sha1 "367fcda6059d9c178c349e269fe104b2995922d0"
+  url "https://github.com/AlexDenisov/xcconf/archive/0.4.0.tar.gz"
+  sha1 "9817c2bb66233b65fdbd59765bd1f6ed3c26c3d9"
 
   def install
     system "make"
